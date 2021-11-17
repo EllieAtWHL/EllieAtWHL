@@ -4,8 +4,8 @@ Most of my projects are currently private, but I have some exciting projects I a
 
 ![Certified Salesforce Adminstrator](https://img.shields.io/badge/Certified-Administrator-8D9AEE?style=for-the-badge&logo=salesforce)
 ![Certified Salesforce Advanced Administrator](https://img.shields.io/badge/Certified-Advanced%20Administrator-8D9AEE?style=for-the-badge&logo=salesforce)
-![Certified Salesforce Platform Developer 1](https://img.shields.io/badge/Certified-Platform-Developer%20I-8D9AEE?style=for-the-badge&logo=salesforce)
-![Certified Salesforce Platform Developer 2](https://img.shields.io/badge/Certified-Platform-Developer%20II-8D9AEE?style=for-the-badge&logo=salesforce)
+![Certified Salesforce Platform Developer 1](https://img.shields.io/badge/Certified-Platform%20Developer%20I-8D9AEE?style=for-the-badge&logo=salesforce)
+![Certified Salesforce Platform Developer 2](https://img.shields.io/badge/Certified-Platform%20Developer%20II-8D9AEE?style=for-the-badge&logo=salesforce)
 ![Certified Marketing Cloud Email Specialist](https://img.shields.io/badge/Certified-Marketing%20Cloud%20Email%20Specialist-F6BD04?style=for-the-badge&logo=salesforce)
 
 <!--
