@@ -21,6 +21,9 @@
 ![Journey Builder](https://img.shields.io/badge/-Journey%20Builder-F6BD04?logo=salesforce)
 
 ## Experience Cloud
+![Experience Cloud Security](https://img.shields.io/badge/-Experience%20Cloud%20Security-16325C?logo=salesforce)
+![Experience Cloud Custom Theme](https://img.shields.io/badge/-Experience%20Cloud%20Custom%20Theme-16325C?logo=salesforce)
+![Experience Cloud Development](https://img.shields.io/badge/-Experience%20Cloud%20Developement-16325C?logo=salesforce)
 
 ## App Exchange Products
 
