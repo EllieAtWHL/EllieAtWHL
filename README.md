@@ -19,6 +19,7 @@
 ![Certified Marketing Cloud Email Specialist](https://img.shields.io/badge/Certified-Marketing%20Cloud%20Email%20Specialist-F6BD04?logo=salesforce)
 
 ![Journey Builder](https://img.shields.io/badge/-Journey%20Builder-F6BD04?logo=salesforce)
+![Automation Studio](https://img.shields.io/badge/-Automation%20Studio-F6BD04?logo=salesforce)
 
 ## Experience Cloud
 ![Experience Cloud Security](https://img.shields.io/badge/-Experience%20Cloud%20Security-16325C?logo=salesforce)
