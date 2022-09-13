@@ -57,6 +57,7 @@
 
 ![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?logo=jira&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=Visual%20Studio%20Code)
 
 # Social Media
 
