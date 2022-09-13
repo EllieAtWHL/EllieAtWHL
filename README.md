@@ -58,6 +58,12 @@
 ![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?logo=jira&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 
+# Social Media
+
+[![Twitter](https://img.shields.io/badge/Twitter-@EllieAtWHL-1DA1F2?logo=twitter)](https://twitter.com/EllieAtWHL)
+[![GitHub](https://img.shields.io/badge/Github-EllieAtWHL-181717?logo=github)](https://github.com/EllieAtWHL)
+[![Salesforce](https://img.shields.io/badge/Salesforce-EllieMatthewman-00A1E0?logo=Salesforce)](https://trailblazer.me/id/elliematthewman)
+
 # My Projects
 
 Most of my projects are currently private, but I have some exciting projects I am hoping to share soon, including:
@@ -66,6 +72,8 @@ Most of my projects are currently private, but I have some exciting projects I a
 <!--
 
 ### Hi there 👋
+
+[![Foo](http://www.google.com.au/images/nav_logo7.png)](http://google.com.au/)
 
 **EllieAtWHL/EllieAtWHL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
