@@ -2,13 +2,13 @@
 
 ## Core Platform
 
-![Certified Salesforce Adminstrator](https://img.shields.io/badge/Certified-Administrator-8D9AEE?logo=salesforce)
+![Certified Salesforce Adminstrator](https://img.shields.io/badge/Certified-Administrator-90D1FE?logo=salesforce)
 
-![Certified Salesforce Advanced Administrator](https://img.shields.io/badge/Certified-Advanced%20Administrator-8D9AEE?logo=salesforce)
+![Certified Salesforce Advanced Administrator](https://img.shields.io/badge/Certified-Advanced%20Administrator-90D1FE?logo=salesforce)
 
-![Certified Salesforce Platform Developer 1](https://img.shields.io/badge/Certified-Platform%20Developer%20I-8D9AEE?logo=salesforce)
+![Certified Salesforce Platform Developer 1](https://img.shields.io/badge/Certified-Platform%20Developer%20I-8E9BEF?logo=salesforce)
 
-![Certified Salesforce Platform Developer 2](https://img.shields.io/badge/Certified-Platform%20Developer%20II-8D9AEE?logo=salesforce)
+![Certified Salesforce Platform Developer 2](https://img.shields.io/badge/Certified-Platform%20Developer%20II-8E9BEF?logo=salesforce)
 
 ![Flow Builder](https://img.shields.io/badge/-Flow%20Builder-16325C?logo=salesforce)
 ![Lightning Web Components](https://img.shields.io/badge/-Lightning%20Web%20Components-16325C?logo=salesforce)
