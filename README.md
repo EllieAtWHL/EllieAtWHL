@@ -13,17 +13,16 @@
 ![Lightning Web Components](https://img.shields.io/badge/-Lightning%20Web%20Components-16325C?logo=salesforce)
 ![Lightning Design System](https://img.shields.io/badge/-Lightning%20Design%20System-16325C?logo=salesforce)
 
+![Experience Cloud Security](https://img.shields.io/badge/-Experience%20Cloud%20Security-16325C?logo=salesforce)
+![Experience Cloud Custom Theme](https://img.shields.io/badge/-Experience%20Cloud%20Custom%20Theme-16325C?logo=salesforce)
+![Experience Cloud Development](https://img.shields.io/badge/-Experience%20Cloud%20Developement-16325C?logo=salesforce)
+
 ## Marketing Cloud
 
 ![Certified Marketing Cloud Email Specialist](https://img.shields.io/badge/Certified-Marketing%20Cloud%20Email%20Specialist-F6BD04?logo=salesforce)
 
 ![Journey Builder](https://img.shields.io/badge/-Journey%20Builder-F6BD04?logo=salesforce)
 ![Automation Studio](https://img.shields.io/badge/-Automation%20Studio-F6BD04?logo=salesforce)
-
-## Experience Cloud
-![Experience Cloud Security](https://img.shields.io/badge/-Experience%20Cloud%20Security-16325C?logo=salesforce)
-![Experience Cloud Custom Theme](https://img.shields.io/badge/-Experience%20Cloud%20Custom%20Theme-16325C?logo=salesforce)
-![Experience Cloud Development](https://img.shields.io/badge/-Experience%20Cloud%20Developement-16325C?logo=salesforce)
 
 ## App Exchange Products
 
@@ -32,6 +31,7 @@
 ![Conga](https://img.shields.io/badge/-Conga-ED1C24)
 ![FormAssembly](https://img.shields.io/badge/-FormAssembly-1A69EB)
 ![Copado](https://img.shields.io/badge/-Copado-00C3EF)
+![Gearset](https://img.shields.io/badge/-Gearset-E2673C)
 
 ## Other Salesforce Products
 
