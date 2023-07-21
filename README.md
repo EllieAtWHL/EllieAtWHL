@@ -6,6 +6,8 @@
 
 ![Certified Salesforce Advanced Administrator](https://img.shields.io/badge/Certified-Advanced%20Administrator-90D1FE?logo=salesforce)
 
+![Certified Salesforce Platform App Builder](https://img.shields.io/badge/Certified-Platform%20App%20Builder-8E9BEF?logo=salesforce)
+
 ![Certified Salesforce Platform Developer 1](https://img.shields.io/badge/Certified-Platform%20Developer%20I-8E9BEF?logo=salesforce)
 
 ![Certified Salesforce Platform Developer 2](https://img.shields.io/badge/Certified-Platform%20Developer%20II-8E9BEF?logo=salesforce)
@@ -69,9 +71,10 @@
 
 # My Projects
 
-Most of my projects are currently private, but I have some exciting projects I am hoping to share soon, including:
- - An NFL Fantasy Draft application in Salesforce
- - A To-Do List application
+- [NFL Fantasy Draft application built in Salesforce](https://github.com/EllieAtWHL/GoldenHelmetLeague)
+- [My Website](https://github.com/EllieAtWHL/myPortfolioWebsite)
+- [Flappy McFlapFace - a clone of Flappy Bird that was my first Unity project](https://github.com/EllieAtWHL/Flappy-McFlapFace)
+
 <!--
 
 ### Hi there 👋
