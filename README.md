@@ -9,6 +9,9 @@
 ![Certified Salesforce Platform Developer 1](https://img.shields.io/badge/Certified-Platform%20Developer%20I-8E9BEF?logo=salesforce)
 ![Certified Salesforce Platform Developer 2](https://img.shields.io/badge/Certified-Platform%20Developer%20II-8E9BEF?logo=salesforce)
 
+
+![Certified Salesforce Data Architect](https://img.shields.io/badge/Certified-Data%20Architect-01B5A7?logo=salesforce)
+
 ![Flow Builder](https://img.shields.io/badge/-Flow%20Builder-16325C?logo=salesforce)
 ![Lightning Web Components](https://img.shields.io/badge/-Lightning%20Web%20Components-16325C?logo=salesforce)
 ![Lightning Design System](https://img.shields.io/badge/-Lightning%20Design%20System-16325C?logo=salesforce)
