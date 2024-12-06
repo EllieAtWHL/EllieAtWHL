@@ -1,10 +1,9 @@
 name: Update Trailhead Stats
 
 
-  on: workflow_dispatch
-  on:
-  schedule:
-    - cron: '0 0 * * *' # Runs daily
+  on: 
+    workflow_dispatch:
+
 
 jobs:
   update-stats:
