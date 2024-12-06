@@ -1,9 +1,12 @@
 name: Update Trailhead Stats
 
-
-  on: 
-    workflow_dispatch:
-
+on: 
+  workflow_dispatch:
+    inputs:
+      tags:
+          description: 'Run trailhead stats'
+          required: false
+          type: boolean
 
 jobs:
   update-stats:
