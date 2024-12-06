@@ -1,4 +1,4 @@
-# Salesforce Experience and Certifications
+# Salesforce Certifications and Badges
 
 <!--TH_Stats:start-->
 
