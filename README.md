@@ -1,4 +1,4 @@
-# Salesforce Certifications and Badges
+## Salesforce Certifications and Badges
 
 <!--TH_Stats:start-->
 
@@ -44,7 +44,7 @@
 
 # Social Media
 
-[![Bluesky](https://img.shields.io/badge/Twitter-@EllieAtWHL.co.uk-1DA1F2?logo=bluesky)]([https://twitter.com/EllieAtWHL](https://bsky.app/profile/ellieatwhl.co.uk))
+[![BlueSky](https://img.shields.io/badge/BlueSky-@EllieAtWHL.co.uk-1DA1F2?logo=bluesky)]([https://twitter.com/EllieAtWHL](https://bsky.app/profile/ellieatwhl.co.uk))
 [![GitHub](https://img.shields.io/badge/Github-EllieAtWHL-181717?logo=github)](https://github.com/EllieAtWHL)
 [![Salesforce](https://img.shields.io/badge/Salesforce-EllieMatthewman-00A1E0?logo=Salesforce)](https://trailblazer.me/id/elliematthewman)
 
@@ -53,23 +53,3 @@
 - [NFL Fantasy Draft application built in Salesforce](https://github.com/EllieAtWHL/GoldenHelmetLeague)
 - [My Website](https://github.com/EllieAtWHL/myPortfolioWebsite)
 - [Flappy McFlapFace - a clone of Flappy Bird that was my first Unity project](https://github.com/EllieAtWHL/Flappy-McFlapFace)
-
-<!--
-
-### Hi there 👋
-
-[![Foo](http://www.google.com.au/images/nav_logo7.png)](http://google.com.au/)
-
-**EllieAtWHL/EllieAtWHL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
