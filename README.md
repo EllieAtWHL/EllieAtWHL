@@ -1,5 +1,8 @@
 # Salesforce Experience and Certifications
 
+<!--TH_Stats:start-->
+<!--TH_Stats:end-->
+
 ## Core Platform
 
 ![Certified Salesforce Adminstrator](https://img.shields.io/badge/Certified-Administrator-90D1FE?logo=salesforce)
