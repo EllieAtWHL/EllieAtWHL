@@ -6,33 +6,6 @@
 ![Trailhead-Stats-Dark](images/TScard-dark.png#gh-dark-mode-only)
 <!--TH_Stats:end-->
 
-## Core Platform
-
-![Certified Salesforce Adminstrator](https://img.shields.io/badge/Certified-Administrator-90D1FE?logo=salesforce)
-![Certified Salesforce Advanced Administrator](https://img.shields.io/badge/Certified-Advanced%20Administrator-90D1FE?logo=salesforce)
-
-![Certified Salesforce Platform App Builder](https://img.shields.io/badge/Certified-Platform%20App%20Builder-8E9BEF?logo=salesforce)
-![Certified Salesforce Platform Developer 1](https://img.shields.io/badge/Certified-Platform%20Developer%20I-8E9BEF?logo=salesforce)
-![Certified Salesforce Platform Developer 2](https://img.shields.io/badge/Certified-Platform%20Developer%20II-8E9BEF?logo=salesforce)
-
-
-![Certified Salesforce Data Architect](https://img.shields.io/badge/Certified-Data%20Architect-01B5A7?logo=salesforce)
-
-![Flow Builder](https://img.shields.io/badge/-Flow%20Builder-16325C?logo=salesforce)
-![Lightning Web Components](https://img.shields.io/badge/-Lightning%20Web%20Components-16325C?logo=salesforce)
-![Lightning Design System](https://img.shields.io/badge/-Lightning%20Design%20System-16325C?logo=salesforce)
-
-![Experience Cloud Security](https://img.shields.io/badge/-Experience%20Cloud%20Security-16325C?logo=salesforce)
-![Experience Cloud Custom Theme](https://img.shields.io/badge/-Experience%20Cloud%20Custom%20Theme-16325C?logo=salesforce)
-![Experience Cloud Development](https://img.shields.io/badge/-Experience%20Cloud%20Developement-16325C?logo=salesforce)
-
-## Marketing Cloud
-
-![Certified Marketing Cloud Email Specialist](https://img.shields.io/badge/Certified-Marketing%20Cloud%20Email%20Specialist-F6BD04?logo=salesforce)
-
-![Journey Builder](https://img.shields.io/badge/-Journey%20Builder-F6BD04?logo=salesforce)
-![Automation Studio](https://img.shields.io/badge/-Automation%20Studio-F6BD04?logo=salesforce)
-
 ## App Exchange Products
 
 ![Zuora](https://img.shields.io/badge/-Zuora-384B5D)
@@ -71,7 +44,7 @@
 
 # Social Media
 
-[![Twitter](https://img.shields.io/badge/Twitter-@EllieAtWHL-1DA1F2?logo=twitter)](https://twitter.com/EllieAtWHL)
+[![Bluesky](https://img.shields.io/badge/Twitter-@EllieAtWHL.co.uk-1DA1F2?logo=bluesky)]([https://twitter.com/EllieAtWHL](https://bsky.app/profile/ellieatwhl.co.uk))
 [![GitHub](https://img.shields.io/badge/Github-EllieAtWHL-181717?logo=github)](https://github.com/EllieAtWHL)
 [![Salesforce](https://img.shields.io/badge/Salesforce-EllieMatthewman-00A1E0?logo=Salesforce)](https://trailblazer.me/id/elliematthewman)
 
