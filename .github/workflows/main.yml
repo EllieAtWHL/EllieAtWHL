@@ -16,13 +16,3 @@ jobs:
         with:
           trailhead-username: 'elliematthewman'
           display-type: 'card'
-
-- name: Trailhead Stats
-- uses: nabondance/trailhead-stats@v2
-  permissions:
-    contents: write
-  with:
-    trailhead-username: 'elliematthewman'
-    display-type: 'card' # Optional
-    display-file: 'README.md' # Optional
-    file-format: 'md' # Optional
