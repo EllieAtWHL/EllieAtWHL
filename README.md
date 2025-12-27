@@ -44,9 +44,9 @@
 
 # Social Media
 
-[![BlueSky](https://img.shields.io/badge/BlueSky-@EllieAtWHL.co.uk-1DA1F2?logo=bluesky)]([https://twitter.com/EllieAtWHL](https://bsky.app/profile/ellieatwhl.co.uk))
-[![Bluesky followers](https://img.shields.io/bluesky/followers/ellieatwhl.co.uk)]
-[![Bluesky posts](https://img.shields.io/bluesky/posts/ellieatwhl.co.uk)]
+[![Bluesky](https://img.shields.io/badge/BlueSky-@EllieAtWHL.co.uk-1DA1F2?logo=bluesky)]([https://twitter.com/EllieAtWHL](https://bsky.app/profile/ellieatwhl.co.uk))
+![Bluesky followers](https://img.shields.io/bluesky/followers/ellieatwhl.co.uk)
+![Bluesky posts](https://img.shields.io/bluesky/posts/ellieatwhl.co.uk)
 [![GitHub](https://img.shields.io/badge/Github-EllieAtWHL-181717?logo=github)](https://github.com/EllieAtWHL)
 [![Salesforce](https://img.shields.io/badge/Salesforce-EllieMatthewman-00A1E0?logo=Salesforce)](https://trailblazer.me/id/elliematthewman)
 
